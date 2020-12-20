@@ -3,3 +3,5 @@
 gem install tty-prompt
 
 ruby lib/hangman.rb
+
+y
