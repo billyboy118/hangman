@@ -1,0 +1,1 @@
+{"name":"player1457","lives_lost":0,"word_to_guess":["p","o","s","t","c","o","i","t","a","l"],"guess_string":"","letter_guesses":["a","o"],"current_progress":["_","o","_","_","_","o","_","_","a","_"],"incorrect_letters":[]}
